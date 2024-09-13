@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SyllabusRoom" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/bright_blue</item>
+        <item name="colorPrimaryDark">@color/sky_blue</item>
+        <item name="statusBarBackground">@color/sky_blue</item>
+        <item name="statusBarForeground">@color/white</item>
+        <item name="colorAccent">@color/bright_purple</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="ShowActionBar" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/bright_blue</item>
+        <item name="statusBarBackground">@color/sky_blue</item>
+        <item name="statusBarForeground">@color/white</item>
+        <item name="colorPrimaryDark">@color/sky_blue</item>
+        <item name="colorAccent">@color/bright_purple</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SyllabusRoom" parent="Base.Theme.SyllabusRoom" />
+</resources>

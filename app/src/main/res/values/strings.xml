@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Syllabus Room</string>
+    <string name="splash_screen_slogan">No Mess, No Stress, Syllabus Room</string>
+    <string name="splash_screen_title">Syllabus Study</string>
+    <string name="login_password">Password</string>
+    <string name="login_username">Username</string>
+    <string name="login_forgot_password">Forgot password?</string>
+</resources>
